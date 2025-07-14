@@ -1,13 +1,13 @@
-# Moshi-IoT-Based-Helmet-Tracker-and-Emergency-Response-System
+# * Moshi-IoT-Based-Helmet-Tracker-and-Emergency-Response-System
 
 
-# Project Overview
+# * Project Overview
 
-# Development Model
+# * Development Model
 
-# System Architecture
+# * System Architecture
 
-# Team Members
+# * Team Members
 
 * Lopez, Elkes Pearl P. 22-00033
 * Macaraig, Winona Ashley L. 21-04058
