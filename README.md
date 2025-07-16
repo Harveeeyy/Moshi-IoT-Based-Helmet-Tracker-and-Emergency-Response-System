@@ -10,7 +10,21 @@ Moshi is a prototype mobile application developed for our capstone project title
 
 This application is the first phase of the capstone, focusing on the mobile-side functionalities. This project was developed in collaboration with Top Drive Driving Institute – Batangas, with the goal of supporting riders, instructors, and emergency responders through faster, smarter mobile-based communication in emergency situations.
 
-# Development Model
+# 🔧 Development Model
+
+We followed the Agile Software Development Life Cycle (SDLC), allowing us to build, test, and improve the app in iterative sprints.
+
+Current Scope (Prototype Phase):
+
+* Mobile app interface and experience
+
+* Firebase setup and integration
+
+* Real-time GPS tracking
+
+* SOS alert simulation
+
+* Audio recording and storage
 
 # System Architecture
 
