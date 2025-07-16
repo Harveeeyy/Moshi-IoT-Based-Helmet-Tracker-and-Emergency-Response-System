@@ -1,6 +1,6 @@
 # Moshi-IoT-Based-Helmet-Tracker-and-Emergency-Response-System
 
-An innovative IoT-driven solution developed to enhance motorcycle rider safety through real-time GPS tracking, SOS alert functionality, and voice recording integrated within a smart helmet system.
+A prototype mobile application designed to improve the safety of motorcycle riders through real-time location tracking, emergency alerts, and audio recording capabilities — developed as part of a capstone project at Batangas State University.
 
 
 
