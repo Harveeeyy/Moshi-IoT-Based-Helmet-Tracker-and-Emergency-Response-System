@@ -14,7 +14,7 @@ This application is the first phase of the capstone, focusing on the mobile-side
 
 We followed the Agile Software Development Life Cycle (SDLC), allowing us to build, test, and improve the app in iterative sprints.
 
-Current Scope (Prototype Phase):
+### Current Scope (Prototype Phase):
 
 * Mobile app interface and experience
 
