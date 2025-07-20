@@ -24,7 +24,7 @@ We followed a Mobile Application Development Lifecycle, progressing through key 
 
 * Language & Framework: Dart with Flutter
 
-* IDE: Android Studio
+* IDE: Android Studio & Visual Studio Code
 
 * Backend & Services: Firebase (Realtime Database, Firebase Auth, Firebase Storage)
 
