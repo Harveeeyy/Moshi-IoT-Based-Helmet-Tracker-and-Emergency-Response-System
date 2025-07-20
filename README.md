@@ -1,14 +1,18 @@
 # 🪖 Moshi-IoT-Based-Helmet-Tracker-and-Emergency-Response-System
 
-A prototype mobile application designed to improve the safety of motorcycle riders through real-time location tracking, emergency alerts, and audio recording capabilities developed as part of a capstone project at Batangas State University.
+A prototype mobile application developed to improve the safety of motorcycle riders by providing real-time location tracking, SOS alerts, and basic system monitoring. This project was created as part of a capstone requirement at Batangas State University in collaboration with Top Drive Driving Institute – Batangas.
 
 
 
 # 📱 Project Overview
 
-Moshi is a prototype mobile application developed for our capstone project titled "Top Drive Driving Institute: Moshi - An IoT-Based Helmet Tracker and Emergency Response System." It aims to enhance the safety of motorcycle riders by providing emergency alert functionality, GPS-based real-time location tracking, and voice recording during critical situations.
+Moshi is a mobile-based prototype aimed at enhancing motorcycle rider safety by integrating core emergency response features into a companion app. The system supports:
 
-This application is the first phase of the capstone, focusing on the mobile-side functionalities. This project was developed in collaboration with Top Drive Driving Institute – Batangas, with the goal of supporting riders, instructors, and emergency responders through faster, smarter mobile-based communication in emergency situations.
+* GPS-based location tracking
+* SOS emergency alerts sent through the app
+* Device status monitoring synced from the helmet hardware
+  
+This capstone project represents the initial development phase, focusing on mobile functionality and simulated data from IoT hardware. The system is designed to assist both riders and emergency contacts during critical events by improving communication and response times.
 
 # 🔧 Development Model
 
