@@ -9,14 +9,24 @@ A prototype mobile application developed to improve the safety of motorcycle rid
 Moshi is a mobile-based prototype aimed at enhancing motorcycle rider safety by integrating core emergency response features into a companion app. The system supports:
 
 * GPS-based location tracking
+  
 * SOS emergency alerts sent through the app
+  
 * Device status monitoring synced from the helmet hardware
   
 This capstone project represents the initial development phase, focusing on mobile functionality and simulated data from IoT hardware. The system is designed to assist both riders and emergency contacts during critical events by improving communication and response times.
 
 # 🔧 Development Model
 
-We followed the Agile Software Development Life Cycle (SDLC), allowing us to build, test, and improve the app in iterative sprints.
+We followed a Mobile Application Development Lifecycle, progressing through key stages such as planning, UI/UX design, implementation, testing, and refinement. This approach allowed us to focus on delivering a functional and user-centered mobile experience. Development was iterative, enabling us to adapt based on feedback and gradually integrate core emergency response features into the app.
+
+# 💻 Tech Stack
+
+* Language & Framework: Dart with Flutter
+
+* IDE: Android Studio
+
+* Backend & Services: Firebase (Realtime Database, Firebase Auth, Firebase Storage)
 
 ### Current Scope (Prototype Phase):
 
@@ -27,8 +37,6 @@ We followed the Agile Software Development Life Cycle (SDLC), allowing us to bui
 * Real-time GPS tracking
 
 * SOS alert simulation
-
-* Audio recording and storage
 
 # 🏗️ System Architecture
 
