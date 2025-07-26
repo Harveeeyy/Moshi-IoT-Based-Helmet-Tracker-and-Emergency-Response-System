@@ -42,6 +42,6 @@ We followed a Mobile Application Development Lifecycle, progressing through key 
 
 # 🧑‍💻 Team Members
 
-* Lopez, Elkes Pearl P. 22-00033 - Documentation Coordinator, UI Tester
-* Macaraig, Winona Ashley L. 21-04058 - Lead Developer, Presentation Designer
-* Madera, Harvey V. 20-01665 - Documentation Lead, Backup Developer
+* Lopez, Elkes Pearl P. 22-00033 — Documentation Coordinator, UI Tester
+* Macaraig, Winona Ashley L. 21-04058 — Lead Developer, Presentation Designer
+* Madera, Harvey V. 20-01665 — Documentation Lead, Backup Developer
