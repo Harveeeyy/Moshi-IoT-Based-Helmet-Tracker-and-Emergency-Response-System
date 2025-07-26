@@ -30,7 +30,7 @@ We followed a Mobile Application Development Lifecycle, progressing through key 
 
 ### Current Scope (Prototype Phase):
 
-* Mobile app interface and experience
+* Mobile app interface
 
 * Firebase setup and integration
 
