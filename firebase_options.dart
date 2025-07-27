@@ -47,21 +47,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBoS2o_pt6apm5xF3tP_z_A6peHC0JQCD4',
-    appId: '1:496326088261:web:7ec48251a4f2b8eb25b52c',
-    messagingSenderId: '496326088261',
-    projectId: 'moshi-c4b33',
-    authDomain: 'moshi-c4b33.firebaseapp.com',
-    storageBucket: 'moshi-c4b33.firebasestorage.app',
-    measurementId: 'G-NR0CW5X3HG',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDt9awkuzw0E56SAyLjcV0PG9BMt3nc03w',
-    appId: '1:496326088261:android:5f1be17378e0e54625b52c',
-    messagingSenderId: '496326088261',
-    projectId: 'moshi-c4b33',
-    storageBucket: 'moshi-c4b33.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
