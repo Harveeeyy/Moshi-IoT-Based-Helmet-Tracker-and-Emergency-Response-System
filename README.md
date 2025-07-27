@@ -26,7 +26,6 @@ We followed a Mobile Application Development Lifecycle, progressing through key 
 
 * IDE: Android Studio & Visual Studio Code
 
-* Backend & Services: Firebase (Realtime Database, Firebase Auth, Firebase Storage)
 
 ### Current Scope (Prototype Phase):
 
