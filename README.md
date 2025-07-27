@@ -31,8 +31,6 @@ We followed a Mobile Application Development Lifecycle, progressing through key 
 
 * Mobile app interface
 
-* Firebase setup and integration
-
 * Real-time GPS tracking
 
 * SOS alert simulation
